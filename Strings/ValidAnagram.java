@@ -1,4 +1,6 @@
-class Solution {
+// Problem: Valid Anagram
+// Platform: NeetCode
+// Difficulty: Easyclass Solution {
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) {
             return false;
