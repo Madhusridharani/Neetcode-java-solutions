@@ -1,4 +1,6 @@
-lass Solution {
+// Problem: Is Subsequence
+// Platform: NeetCode
+// Difficulty: Easyclass Solution {
     public boolean isSubsequence(String s, String t) {
         int i = 0;
         int j = 0;
